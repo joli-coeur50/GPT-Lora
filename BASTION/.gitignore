@@ -1,0 +1,18 @@
+# Runtime/generated
+RUNTIME/ENV/
+RUNTIME/PYCACHE/**
+RUNTIME/HOME/**
+RUNTIME/TMP/**
+RUNTIME/XDG/**
+RUNTIME/CACHES/**
+DATA/BUNDLES/*
+DATA/REPORTS/*
+DATA/LOGS/jobs.jsonl
+DATA/INDEX_ATLAS/index.sqlite
+DATA/DATASETS/atlas_*/
+DATA/LORAS/*_*/
+STATE/write_journal.jsonl
+__pycache__/
+
+# Keep directory placeholders
+!**/.gitkeep

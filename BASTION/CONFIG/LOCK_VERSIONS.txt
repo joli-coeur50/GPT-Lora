@@ -1,0 +1,4 @@
+python==3.11
+pillow==10.4.0
+safetensors==0.4.5
+numpy==2.1.1
